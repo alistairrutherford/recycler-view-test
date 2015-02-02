@@ -6,5 +6,5 @@ Here is a nice sample Android application which illutrates how to use the Recycl
 - Details view
 - Uses support library
 - Follows material design guidelines.
-- Shows how to implement a outline around lisr items.
+- Shows how to implement a outline around list items.
 
