@@ -8,3 +8,4 @@ Here is a nice sample Android application which illutrates how to use the Recycl
 - Follows material design guidelines.
 - Shows how to implement a outline around list items.
 
+![Demo](https://github.com/alistairrutherford/images/raw/master/recycler-view-test.png) 
